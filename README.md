@@ -6,8 +6,6 @@
 </div>
 
 - 배포 URL : https://commonplus.store/
-- Test ID : test@test.com
-- Test PW : qqqqqqqq!
 
 <br>
 
